@@ -1,0 +1,65 @@
+participant_id,source_identity,attack_type,file_path,true_label,face_pred,face_prob_spoof
+P073,P073,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/person_with_glasses/1769656704608-ef07jxxzhzn-video 12.webm,0,0,0.0395790624121824
+P077,P077,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/person_with_glasses/manith-wijesinghe-1770445706558-cxjw709ki8-video.webm,0,0,0.026051627472043
+P010,P011,logical,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/logical_attack_videos/P010_logical_P011_1771401489025-xvnbmzb9e8a.mp4,1,1,0.999994695186615
+P089,P089,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/noisy_background_video/aqeel-1770445688899-ccc0rshi3rk-video.webm,0,0,0.1230811476707458
+P002,P002,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/vijayakalyani-balajeyandhan-1771049545786-xcfsda9eado-video-RA.webm,1,1,0.9999688267707824
+P017,P018,logical,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/logical_attack_videos/P017_logical_P018_1770445663719-yykw6xau3x.mp4,1,1,0.9999361634254456
+P076,P076,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/methul-1770446113415-851a51rt5u4-video-RA.webm,1,1,0.8119329512119293
+P047,P048,logical,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/logical_attack_videos/P047_logical_P048_1770028923875-1hygdlyttxt.mp4,1,1,0.6535937637090683
+P035,P035,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/christopher-columbus-1770219484810-1bu87g29rsv-video-RA.webm,1,1,0.991469994187355
+P019,P020,logical,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/logical_attack_videos/P019_logical_P020_1770206737552-7b84if03p6b.mp4,1,0,0.4498027563095093
+P087,P087,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/noisy_background_video/geethma-1770445725922-tdkizfxm2c-video.webm,0,0,0.0623405165970325
+P084,P085,logical,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/logical_attack_videos/P084_logical_P085_1770445612934-h9m47dgoghs.mp4,1,1,0.5909182578325272
+P081,P081,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/noisy_background_video/vihangi-wickramathilaka-1770445658387-z0i6uvj0r2h-video.webm,0,0,0.0216663777828216
+P062,P064,logical,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/logical_attack_videos/P062_logical_P064_1769680362558-n9br5ma9t5p.mp4,1,1,0.937125638127327
+P085,P085,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/noisy_background_video/praneepa-ekanayake-1770445724370-av9t2z74m8g-video.webm,0,0,0.298
+P030,P030,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/perfect_videos/harish-visvalingam-1770445711837-coy6l2idlit-video.webm,0,0,0.214416354894638
+P013,P013,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/oveena-widyaratne-1770363421497-xkdtwb6r5t-video-RA.webm,1,1,0.9574994444847108
+P024,P024,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/isuru-udayakumara-1770217090325-2egusipenph-video-RA.webm,1,1,0.9997685700654984
+P038,P041,logical,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/logical_attack_videos/P038_logical_P041_1770203841157-kds0yz9v9pc.mp4,1,1,0.993279993534088
+P038,P038,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/perfect_videos/amashan-weerasinghe-1770203841157-kds0yz9v9pc-video.webm,0,0,0.2201481902350982
+P051,P055,logical,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/logical_attack_videos/P051_logical_P055_1770006660690-9qwgjvmdp8.mp4,1,0,0.4029381237924099
+P070,P070,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/1769877768525-icimbs5yvns-video 9-RA.webm,1,1,0.9050140976905824
+P029,P029,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/harsha-vidanagamage-1770445678086-i9c4dief63s-video-RA.webm,1,1,0.8973021954298019
+P003,P003,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/perfect_videos/umair-1770445787080-lqw56ag66w-video.webm,0,0,0.0196563811041414
+P071,P071,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/perfect_videos/1769877877349-6ubslfaljz6-video 5.webm,0,0,0.0883929580450058
+P061,P061,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/1769857860488-1kaf4vrf1bw-video-RA.webm,1,1,0.9955122470855712
+P022,P022,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/perfect_videos/kusal-1770445694876-9ahtrz67nb5-video.webm,0,0,0.332
+P053,P053,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/perfect_videos/1769878323445-9htttm85m8a-video.webm,0,0,0.1938375234603881
+P084,P084,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/priyanka-chandrakanthan-1770445612934-h9m47dgoghs-video-RA.webm,1,1,0.9605690240859984
+P021,P021,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/perfect_videos/lakshan-20221470-iit-ac-lk-1770301365487-byvhk57rws-video.webm,0,0,0.1432808587948481
+P038,P038,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/amashan-weerasinghe-1770203841157-kds0yz9v9pc-video-RA.webm,1,1,0.9974340498447418
+P040,P040,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/aksheya-1770477453315-sydj4jcvtoi-video-RA.webm,1,1,0.9995199292898178
+P082,P082,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/noisy_background_video/thrilochana-1770445940637-wtibtljxuzm-video.webm,0,0,0.0129238124936819
+P065,P065,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/1769879665020-z2hehrkreh-video2-RA.webm,1,1,0.9973757714033128
+P068,P068,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/1769877871713-4m4k67ocdf6-video 7-RA.webm,1,1,0.8704456686973572
+P061,P061,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/perfect_videos/1769857860488-1kaf4vrf1bw-video.webm,0,0,0.0468970965594053
+P048,P049,logical,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/logical_attack_videos/P048_logical_P049_1770016503680-7cdim9wd80u.mp4,1,1,0.8642741739749908
+P063,P063,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/1769582224434-2n71gdsz237-video-RA.webm,1,1,0.9999257624149324
+P093,P093,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/thrishanthini-1770633262075-k6u2io4qolo-video-RA.webm,1,1,0.9992159754037856
+P003,P003,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/umair-1770445787080-lqw56ag66w-video-RA.webm,1,1,0.8615647703409195
+P082,P083,logical,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/logical_attack_videos/P082_logical_P083_1770445940637-wtibtljxuzm.mp4,1,0,0.2324291747063398
+P036,P037,logical,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/logical_attack_videos/P036_logical_P037_1770301049346-y55avo4p2vi.mp4,1,0,0.1074909176677465
+P079,P079,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/sivagnanam-mayuran-1770646563111-v924d5zyos-video-RA.webm,1,1,0.9997844845056534
+P012,P012,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/prabhashan-1770380045217-37yshqp9c7a-video-RA.webm,1,1,0.9888864904642104
+P047,P047,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/1770028923875-1hygdlyttxt-video-RA.webm,1,1,0.8087990085283915
+P080,P080,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/1769877835383-f8kvf7lral-video 3-RA.webm,1,1,0.9987048357725145
+P074,P075,logical,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/logical_attack_videos/P074_logical_P075_1770008423822-5ek366c1tyi.mp4,1,1,0.5809797644615173
+P052,P052,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/perfect_videos/1770003685383-va6cgq2e3pc-video.webm,0,0,0.2939016073942184
+P015,P019,logical,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/logical_attack_videos/P015_logical_P019_1770190438442-qpuieazzqee.mp4,1,1,0.9277376532554626
+P015,P015,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/perfect_videos/nina-abeyratne-1770190438442-qpuieazzqee-video.webm,0,0,0.311
+P090,P090,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/anika-mohamed-1770445861794-kxwd18re9zl-video-RA.webm,1,1,0.9878810048103333
+P019,P019,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/madhumitha-balajeyandhan-1770206737552-7b84if03p6b-video-RA.webm,1,1,0.9469483494758606
+P078,P078,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/maleesha-dewmini-1770445718682-feaylk2v696-video-RA.webm,1,1,0.672
+P002,P002,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/perfect_videos/vijayakalyani-balajeyandhan-1771049545786-xcfsda9eado-video.webm,0,0,0.0968789383769035
+P097,P001,logical,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/logical_attack_videos/P097_logical_P001_1770445780786-y222a26roh.mp4,1,1,0.9995723813772202
+P074,P074,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/person_not_speaking/1769661288326-qjv26yfs9b-video 11.webm,0,0,0.0539150610566139
+P030,P031,logical,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/logical_attack_videos/P030_logical_P031_1770445711837-coy6l2idlit.mp4,1,1,0.730246290564537
+P036,P036,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/avinash-jeevaratnam-1770301049346-y55avo4p2vi-video-RA.webm,1,1,0.7430161833763123
+P069,P069,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/perfect_videos/1769877763904-77llgv23pb-video 10.webm,0,0,0.381
+P060,P060,replay,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/replay_attack_videos/1769865631974-5vswlopqn38-video-RA.webm,1,1,0.9995827078819276
+P031,P033,logical,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/logical_attack_videos/P031_logical_P033_1770725471062-pvz0nwke0cp.mp4,1,1,0.6581514775753021
+P072,P072,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/person_with_glasses/1769877865550-cngi8444j34-video 8.webm,0,0,0.0560676101595163
+P096,P097,logical,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Attack/logical_attack_videos/P096_logical_P097_1770218434339-0208d18knkyy.mp4,1,0,0.2937842346727848
+P024,P024,genuine,/content/drive/MyDrive/Final_Dataset/Sam_final_dataset/Video/Genuine_Folder/perfect_videos/isuru-udayakumara-1770217090325-2egusipenph-video.webm,0,0,0.0732056824490428

@@ -1,0 +1,381 @@
+session_token,attack_type,true_label,feat_pred,feat_prob,fusion,best_clf
+1771401489025-xvnbmzb9e8a,logical,1,1,1.0,Face + Voice,Random Forest
+1770218434339-0208d18knkyy,logical,1,1,0.72,Face + Voice,Random Forest
+1770445663719-yykw6xau3x,logical,1,1,1.0,Face + Voice,Random Forest
+1770028923875-1hygdlyttxt,logical,1,1,1.0,Face + Voice,Random Forest
+1770206737552-7b84if03p6b,logical,1,1,0.96,Face + Voice,Random Forest
+1770445612934-h9m47dgoghs,logical,1,1,0.99,Face + Voice,Random Forest
+1769680362558-n9br5ma9t5p,logical,1,1,1.0,Face + Voice,Random Forest
+1770203841157-kds0yz9v9pc,logical,1,1,1.0,Face + Voice,Random Forest
+1770006660690-9qwgjvmdp8,logical,1,1,0.84,Face + Voice,Random Forest
+1769877768525-icimbs5yvns,replay,1,1,1.0,Face + Voice,Random Forest
+1769857860488-1kaf4vrf1bw,replay,1,1,1.0,Face + Voice,Random Forest
+1769877871713-4m4k67ocdf6,replay,1,1,0.77,Face + Voice,Random Forest
+1769879665020-z2hehrkreh,replay,1,1,0.97,Face + Voice,Random Forest
+1770016503680-7cdim9wd80u,logical,1,1,1.0,Face + Voice,Random Forest
+1770301049346-y55avo4p2vi,logical,1,0,0.18,Face + Voice,Random Forest
+1770445940637-wtibtljxuzm,logical,1,1,0.97,Face + Voice,Random Forest
+1769582224434-2n71gdsz237,replay,1,1,1.0,Face + Voice,Random Forest
+1769865631974-5vswlopqn38,replay,1,1,1.0,Face + Voice,Random Forest
+1770445711837-coy6l2idlit,logical,1,1,1.0,Face + Voice,Random Forest
+1770725471062-pvz0nwke0cp,logical,1,1,1.0,Face + Voice,Random Forest
+1769877835383-f8kvf7lral,replay,1,1,1.0,Face + Voice,Random Forest
+1770008423822-5ek366c1tyi,logical,1,1,1.0,Face + Voice,Random Forest
+1770190438442-qpuieazzqee,logical,1,1,1.0,Face + Voice,Random Forest
+1770445780786-y222a26roh,logical,1,1,1.0,Face + Voice,Random Forest
+1769656704608-ef07jxxzhzn,genuine,0,0,0.0,Face + Voice,Random Forest
+1769877877349-6ubslfaljz6,genuine,0,0,0.3,Face + Voice,Random Forest
+1769878323445-9htttm85m8a,genuine,0,0,0.27,Face + Voice,Random Forest
+1770003685383-va6cgq2e3pc,genuine,0,1,0.96,Face + Voice,Random Forest
+1769661288326-qjv26yfs9b,genuine,0,0,0.25,Face + Voice,Random Forest
+1769877763904-77llgv23pb,genuine,0,0,0.02,Face + Voice,Random Forest
+1769877865550-cngi8444j34,genuine,0,0,0.0,Face + Voice,Random Forest
+1769878150519-bs6gvzikgww,replay,1,1,1.0,Face + Voice,Random Forest
+1770259504525-yq212ny4ozl,tts,1,1,0.97,Face + Voice,Random Forest
+1770445658387-z0i6uvj0r2h,tts,1,1,1.0,Face + Voice,Random Forest
+1770091464869-c2tvb9pzrw,tts,1,1,1.0,Face + Voice,Random Forest
+1769879131222-u883itot1y,tts,1,1,1.0,Face + Voice,Random Forest
+1770445694876-9ahtrz67nb5,tts,1,1,1.0,Face + Voice,Random Forest
+1770007156022-abb32n6ywev,replay,1,1,1.0,Face + Voice,Random Forest
+1770090868504-sllnnomys4a,tts,1,1,0.9,Face + Voice,Random Forest
+1769877858353-02ci21rj98ul,tts,1,1,1.0,Face + Voice,Random Forest
+1770102907751-5ua5kyxye1,tts,1,1,0.97,Face + Voice,Random Forest
+1770445800354-dydxxootb0g,tts,1,1,0.75,Face + Voice,Random Forest
+1769879150923-hkfhersf7f4,replay,1,1,0.72,Face + Voice,Random Forest
+1769715316109-lepldmgac6,tts,1,1,1.0,Face + Voice,Random Forest
+1770088231254-ksqawp9z6n,tts,1,1,0.99,Face + Voice,Random Forest
+1769877786806-vedpgl0db5r,tts,1,1,1.0,Face + Voice,Random Forest
+1769877447533-dk8kd071f4e,tts,1,1,1.0,Face + Voice,Random Forest
+1769877776957-cfu3881h8h4,tts,1,1,1.0,Face + Voice,Random Forest
+1769879312929-njjzxjw5exi,tts,1,1,1.0,Face + Voice,Random Forest
+1769877746312-17s72lus0oz,tts,1,1,0.95,Face + Voice,Random Forest
+1770446113415-851a51rt5u4,tts,1,1,0.85,Face + Voice,Random Forest
+1769878532354-0sianq32je2,replay,1,1,1.0,Face + Voice,Random Forest
+1769868225913-vpvxtwhl39,tts,1,1,0.89,Face + Voice,Random Forest
+1769877813423-fzmq80fcxer,replay,1,1,1.0,Face + Voice,Random Forest
+1769879032156-o2qh72vloxb,replay,1,1,0.94,Face + Voice,Random Forest
+1769921310778-vis108tj3r,replay,1,1,0.97,Face + Voice,Random Forest
+1769884026520-t9ty3jhfk,tts,1,1,1.0,Face + Voice,Random Forest
+1770445671449-gz2dwbwj91j,tts,1,1,0.98,Face + Voice,Random Forest
+1769877785185-0we92xpmfk1,tts,1,1,1.0,Face + Voice,Random Forest
+1770445648100-ok0k52ovsd7,tts,1,1,1.0,Face + Voice,Random Forest
+1769827464685-t4iir7dsiek,tts,1,1,1.0,Face + Voice,Random Forest
+1769884198839-gbpaaesaa4,replay,1,1,1.0,Face + Voice,Random Forest
+1770626604878-066mir6831a,tts,1,1,1.0,Face + Voice,Random Forest
+1770087651128-1o6x4ah0kle,tts,1,1,1.0,Face + Voice,Random Forest
+1769879335590-h4i23wgvh1,genuine,0,0,0.0,Face + Voice,Random Forest
+1769877836738-ngh2n3zgsbb,genuine,0,0,0.07,Face + Voice,Random Forest
+1770087965227-1baaery53s3i,genuine,0,0,0.35,Face + Voice,Random Forest
+1770088530588-5efqabvflf3,genuine,0,0,0.0,Face + Voice,Random Forest
+1769877783602-qg04uh9094,genuine,0,0,0.0,Face + Voice,Random Forest
+1770583681000-kkbdy2g8w6,synthetic,1,1,1.0,Face + Voice,Random Forest
+1771426980393-nzuzo8hi3mr,synthetic,1,1,0.98,Face + Voice,Random Forest
+1770188000031-tgsearqo8in,synthetic,1,1,1.0,Face + Voice,Random Forest
+1770445778272-8f5hwjpivtu,synthetic,1,1,1.0,Face + Voice,Random Forest
+1770217531977-wk28pni9c7d,synthetic,1,1,0.86,Face + Voice,Random Forest
+1770282071874-i2g3l36xe6i,synthetic,1,1,0.99,Face + Voice,Random Forest
+1770364827761-mr9ug9dhlib,synthetic,1,1,1.0,Face + Voice,Random Forest
+1770557958937-o7zm1xx7z5,synthetic,1,0,0.27,Face + Voice,Random Forest
+1769877799465-s8yspj7o21s,synthetic,1,1,1.0,Face + Voice,Random Forest
+1770477453315-sydj4jcvtoi,synthetic,1,1,1.0,Face + Voice,Random Forest
+1770445820698-5jlwq1lbbr3,synthetic,1,1,0.99,Face + Voice,Random Forest
+1770380045217-37yshqp9c7a,synthetic,1,1,1.0,Face + Voice,Random Forest
+1770301371712-34a8ac6kmjn,synthetic,1,1,1.0,Face + Voice,Random Forest
+1769877779645-a7eplt7s9je,synthetic,1,1,1.0,Face + Voice,Random Forest
+1770646563111-v924d5zyos,genuine,0,0,0.0,Face + Voice,Random Forest
+1769878778942-38puz883s92,genuine,0,0,0.1,Face + Voice,Random Forest
+1769878005554-ul2tq32hw5g,genuine,0,0,0.0,Face + Voice,Random Forest
+1770380281105-mdwuzashsa,genuine,0,0,0.28,Face + Voice,Random Forest
+1770445678567-i71ayyh340i,genuine,0,0,0.0,Face + Voice,Random Forest
+1770217090325-2egusipenph,genuine,0,0,0.0,Face + Voice,Random Forest
+1770445750525-ngqmw95sj0f,genuine,0,0,0.01,Face + Voice,Random Forest
+1770445434966-vjnehaefwq,genuine,0,0,0.17,Face + Voice,Random Forest
+1770445718682-feaylk2v696,genuine,0,1,0.58,Face + Voice,Random Forest
+1771183279674-6f82c2f9ntw,genuine,0,0,0.18,Face + Voice,Random Forest
+1770445787080-lqw56ag66w,genuine,0,1,0.51,Face + Voice,Random Forest
+1770480823736-i9brl5czgw,genuine,0,0,0.1,Face + Voice,Random Forest
+1771401489025-xvnbmzb9e8a,logical,1,1,1.0,Face + Keystroke,Random Forest
+1770218434339-0208d18knkyy,logical,1,1,0.96,Face + Keystroke,Random Forest
+1770445663719-yykw6xau3x,logical,1,1,1.0,Face + Keystroke,Random Forest
+1770028923875-1hygdlyttxt,logical,1,1,1.0,Face + Keystroke,Random Forest
+1770206737552-7b84if03p6b,logical,1,1,0.77,Face + Keystroke,Random Forest
+1770445612934-h9m47dgoghs,logical,1,1,0.69,Face + Keystroke,Random Forest
+1769680362558-n9br5ma9t5p,logical,1,1,1.0,Face + Keystroke,Random Forest
+1770203841157-kds0yz9v9pc,logical,1,1,0.99,Face + Keystroke,Random Forest
+1770006660690-9qwgjvmdp8,logical,1,1,0.74,Face + Keystroke,Random Forest
+1769877768525-icimbs5yvns,replay,1,1,1.0,Face + Keystroke,Random Forest
+1769857860488-1kaf4vrf1bw,replay,1,1,1.0,Face + Keystroke,Random Forest
+1769877871713-4m4k67ocdf6,replay,1,1,1.0,Face + Keystroke,Random Forest
+1769879665020-z2hehrkreh,replay,1,1,1.0,Face + Keystroke,Random Forest
+1770016503680-7cdim9wd80u,logical,1,1,1.0,Face + Keystroke,Random Forest
+1770301049346-y55avo4p2vi,logical,1,1,0.88,Face + Keystroke,Random Forest
+1770445940637-wtibtljxuzm,logical,1,1,0.98,Face + Keystroke,Random Forest
+1769582224434-2n71gdsz237,replay,1,1,0.96,Face + Keystroke,Random Forest
+1769865631974-5vswlopqn38,replay,1,1,1.0,Face + Keystroke,Random Forest
+1770445711837-coy6l2idlit,logical,1,1,1.0,Face + Keystroke,Random Forest
+1770725471062-pvz0nwke0cp,logical,1,1,1.0,Face + Keystroke,Random Forest
+1769877835383-f8kvf7lral,replay,1,1,0.96,Face + Keystroke,Random Forest
+1770008423822-5ek366c1tyi,logical,1,1,0.88,Face + Keystroke,Random Forest
+1770190438442-qpuieazzqee,logical,1,1,0.94,Face + Keystroke,Random Forest
+1770445780786-y222a26roh,logical,1,1,1.0,Face + Keystroke,Random Forest
+1769656704608-ef07jxxzhzn,genuine,0,0,0.03,Face + Keystroke,Random Forest
+1769877877349-6ubslfaljz6,genuine,0,0,0.08,Face + Keystroke,Random Forest
+1769878323445-9htttm85m8a,genuine,0,0,0.17,Face + Keystroke,Random Forest
+1770003685383-va6cgq2e3pc,genuine,0,0,0.18,Face + Keystroke,Random Forest
+1769661288326-qjv26yfs9b,genuine,0,0,0.03,Face + Keystroke,Random Forest
+1769877763904-77llgv23pb,genuine,0,0,0.03,Face + Keystroke,Random Forest
+1769877865550-cngi8444j34,genuine,0,0,0.0,Face + Keystroke,Random Forest
+1769878150519-bs6gvzikgww,replay,1,1,1.0,Face + Keystroke,Random Forest
+1770259504525-yq212ny4ozl,tts,1,1,0.87,Face + Keystroke,Random Forest
+1770445658387-z0i6uvj0r2h,tts,1,1,1.0,Face + Keystroke,Random Forest
+1770091464869-c2tvb9pzrw,tts,1,1,1.0,Face + Keystroke,Random Forest
+1769879131222-u883itot1y,tts,1,1,1.0,Face + Keystroke,Random Forest
+1770445694876-9ahtrz67nb5,tts,1,1,0.97,Face + Keystroke,Random Forest
+1770007156022-abb32n6ywev,replay,1,1,0.89,Face + Keystroke,Random Forest
+1770090868504-sllnnomys4a,tts,1,1,1.0,Face + Keystroke,Random Forest
+1769877858353-02ci21rj98ul,tts,1,1,0.99,Face + Keystroke,Random Forest
+1770102907751-5ua5kyxye1,tts,1,1,1.0,Face + Keystroke,Random Forest
+1770445800354-dydxxootb0g,tts,1,1,0.99,Face + Keystroke,Random Forest
+1769879150923-hkfhersf7f4,replay,1,1,0.87,Face + Keystroke,Random Forest
+1769715316109-lepldmgac6,tts,1,1,1.0,Face + Keystroke,Random Forest
+1770088231254-ksqawp9z6n,tts,1,1,1.0,Face + Keystroke,Random Forest
+1769877786806-vedpgl0db5r,tts,1,1,1.0,Face + Keystroke,Random Forest
+1769877447533-dk8kd071f4e,tts,1,1,1.0,Face + Keystroke,Random Forest
+1769877776957-cfu3881h8h4,tts,1,1,1.0,Face + Keystroke,Random Forest
+1769879312929-njjzxjw5exi,tts,1,1,1.0,Face + Keystroke,Random Forest
+1769877746312-17s72lus0oz,tts,1,1,1.0,Face + Keystroke,Random Forest
+1770446113415-851a51rt5u4,tts,1,1,0.96,Face + Keystroke,Random Forest
+1769878532354-0sianq32je2,replay,1,1,1.0,Face + Keystroke,Random Forest
+1769868225913-vpvxtwhl39,tts,1,1,1.0,Face + Keystroke,Random Forest
+1769877813423-fzmq80fcxer,replay,1,1,1.0,Face + Keystroke,Random Forest
+1769879032156-o2qh72vloxb,replay,1,1,0.85,Face + Keystroke,Random Forest
+1769921310778-vis108tj3r,replay,1,1,1.0,Face + Keystroke,Random Forest
+1769884026520-t9ty3jhfk,tts,1,1,1.0,Face + Keystroke,Random Forest
+1770445671449-gz2dwbwj91j,tts,1,1,1.0,Face + Keystroke,Random Forest
+1769877785185-0we92xpmfk1,tts,1,1,1.0,Face + Keystroke,Random Forest
+1770445648100-ok0k52ovsd7,tts,1,1,1.0,Face + Keystroke,Random Forest
+1769827464685-t4iir7dsiek,tts,1,1,1.0,Face + Keystroke,Random Forest
+1769884198839-gbpaaesaa4,replay,1,1,1.0,Face + Keystroke,Random Forest
+1770626604878-066mir6831a,tts,1,1,1.0,Face + Keystroke,Random Forest
+1770087651128-1o6x4ah0kle,tts,1,1,1.0,Face + Keystroke,Random Forest
+1769879335590-h4i23wgvh1,genuine,0,0,0.03,Face + Keystroke,Random Forest
+1769877836738-ngh2n3zgsbb,genuine,0,0,0.07,Face + Keystroke,Random Forest
+1770087965227-1baaery53s3i,genuine,0,1,0.85,Face + Keystroke,Random Forest
+1770088530588-5efqabvflf3,genuine,0,0,0.03,Face + Keystroke,Random Forest
+1769877783602-qg04uh9094,genuine,0,0,0.0,Face + Keystroke,Random Forest
+1770583681000-kkbdy2g8w6,synthetic,1,1,1.0,Face + Keystroke,Random Forest
+1771426980393-nzuzo8hi3mr,synthetic,1,1,1.0,Face + Keystroke,Random Forest
+1770188000031-tgsearqo8in,synthetic,1,1,1.0,Face + Keystroke,Random Forest
+1770445778272-8f5hwjpivtu,synthetic,1,1,1.0,Face + Keystroke,Random Forest
+1770217531977-wk28pni9c7d,synthetic,1,1,0.97,Face + Keystroke,Random Forest
+1770282071874-i2g3l36xe6i,synthetic,1,1,0.97,Face + Keystroke,Random Forest
+1770364827761-mr9ug9dhlib,synthetic,1,1,1.0,Face + Keystroke,Random Forest
+1770557958937-o7zm1xx7z5,synthetic,1,1,0.62,Face + Keystroke,Random Forest
+1769877799465-s8yspj7o21s,synthetic,1,1,1.0,Face + Keystroke,Random Forest
+1770477453315-sydj4jcvtoi,synthetic,1,1,1.0,Face + Keystroke,Random Forest
+1770445820698-5jlwq1lbbr3,synthetic,1,1,1.0,Face + Keystroke,Random Forest
+1770380045217-37yshqp9c7a,synthetic,1,1,1.0,Face + Keystroke,Random Forest
+1770301371712-34a8ac6kmjn,synthetic,1,1,1.0,Face + Keystroke,Random Forest
+1769877779645-a7eplt7s9je,synthetic,1,1,1.0,Face + Keystroke,Random Forest
+1770646563111-v924d5zyos,genuine,0,0,0.0,Face + Keystroke,Random Forest
+1769878778942-38puz883s92,genuine,0,0,0.01,Face + Keystroke,Random Forest
+1769878005554-ul2tq32hw5g,genuine,0,0,0.0,Face + Keystroke,Random Forest
+1770380281105-mdwuzashsa,genuine,0,0,0.0,Face + Keystroke,Random Forest
+1770445678567-i71ayyh340i,genuine,0,0,0.0,Face + Keystroke,Random Forest
+1770217090325-2egusipenph,genuine,0,0,0.19,Face + Keystroke,Random Forest
+1770445750525-ngqmw95sj0f,genuine,0,0,0.01,Face + Keystroke,Random Forest
+1770445434966-vjnehaefwq,genuine,0,0,0.0,Face + Keystroke,Random Forest
+1770445718682-feaylk2v696,genuine,0,0,0.08,Face + Keystroke,Random Forest
+1771183279674-6f82c2f9ntw,genuine,0,1,0.62,Face + Keystroke,Random Forest
+1770445787080-lqw56ag66w,genuine,0,0,0.18,Face + Keystroke,Random Forest
+1770480823736-i9brl5czgw,genuine,0,0,0.06,Face + Keystroke,Random Forest
+1771401489025-xvnbmzb9e8a,logical,1,1,1.0,Voice + Keystroke,Random Forest
+1770218434339-0208d18knkyy,logical,1,1,1.0,Voice + Keystroke,Random Forest
+1770445663719-yykw6xau3x,logical,1,1,1.0,Voice + Keystroke,Random Forest
+1770028923875-1hygdlyttxt,logical,1,1,1.0,Voice + Keystroke,Random Forest
+1770206737552-7b84if03p6b,logical,1,1,0.97,Voice + Keystroke,Random Forest
+1770445612934-h9m47dgoghs,logical,1,0,0.12,Voice + Keystroke,Random Forest
+1769680362558-n9br5ma9t5p,logical,1,1,1.0,Voice + Keystroke,Random Forest
+1770203841157-kds0yz9v9pc,logical,1,1,0.73,Voice + Keystroke,Random Forest
+1770006660690-9qwgjvmdp8,logical,1,1,1.0,Voice + Keystroke,Random Forest
+1769877768525-icimbs5yvns,replay,1,1,1.0,Voice + Keystroke,Random Forest
+1769857860488-1kaf4vrf1bw,replay,1,1,1.0,Voice + Keystroke,Random Forest
+1769877871713-4m4k67ocdf6,replay,1,1,0.69,Voice + Keystroke,Random Forest
+1769879665020-z2hehrkreh,replay,1,1,0.98,Voice + Keystroke,Random Forest
+1770016503680-7cdim9wd80u,logical,1,1,1.0,Voice + Keystroke,Random Forest
+1770301049346-y55avo4p2vi,logical,1,1,0.93,Voice + Keystroke,Random Forest
+1770445940637-wtibtljxuzm,logical,1,1,1.0,Voice + Keystroke,Random Forest
+1769582224434-2n71gdsz237,replay,1,1,0.57,Voice + Keystroke,Random Forest
+1769865631974-5vswlopqn38,replay,1,1,1.0,Voice + Keystroke,Random Forest
+1770445711837-coy6l2idlit,logical,1,1,1.0,Voice + Keystroke,Random Forest
+1770725471062-pvz0nwke0cp,logical,1,1,1.0,Voice + Keystroke,Random Forest
+1769877835383-f8kvf7lral,replay,1,1,0.9,Voice + Keystroke,Random Forest
+1770008423822-5ek366c1tyi,logical,1,1,0.9,Voice + Keystroke,Random Forest
+1770190438442-qpuieazzqee,logical,1,1,0.87,Voice + Keystroke,Random Forest
+1770445780786-y222a26roh,logical,1,1,1.0,Voice + Keystroke,Random Forest
+1769656704608-ef07jxxzhzn,genuine,0,0,0.13,Voice + Keystroke,Random Forest
+1769877877349-6ubslfaljz6,genuine,0,0,0.19,Voice + Keystroke,Random Forest
+1769878323445-9htttm85m8a,genuine,0,0,0.0,Voice + Keystroke,Random Forest
+1770003685383-va6cgq2e3pc,genuine,0,1,0.86,Voice + Keystroke,Random Forest
+1769661288326-qjv26yfs9b,genuine,0,1,0.54,Voice + Keystroke,Random Forest
+1769877763904-77llgv23pb,genuine,0,0,0.0,Voice + Keystroke,Random Forest
+1769877865550-cngi8444j34,genuine,0,0,0.0,Voice + Keystroke,Random Forest
+1769878150519-bs6gvzikgww,replay,1,1,1.0,Voice + Keystroke,Random Forest
+1770259504525-yq212ny4ozl,tts,1,1,1.0,Voice + Keystroke,Random Forest
+1770445658387-z0i6uvj0r2h,tts,1,1,1.0,Voice + Keystroke,Random Forest
+1770091464869-c2tvb9pzrw,tts,1,1,1.0,Voice + Keystroke,Random Forest
+1769879131222-u883itot1y,tts,1,1,1.0,Voice + Keystroke,Random Forest
+1770445694876-9ahtrz67nb5,tts,1,1,0.96,Voice + Keystroke,Random Forest
+1770007156022-abb32n6ywev,replay,1,1,0.74,Voice + Keystroke,Random Forest
+1770090868504-sllnnomys4a,tts,1,1,0.83,Voice + Keystroke,Random Forest
+1769877858353-02ci21rj98ul,tts,1,1,0.9,Voice + Keystroke,Random Forest
+1770102907751-5ua5kyxye1,tts,1,1,0.92,Voice + Keystroke,Random Forest
+1770445800354-dydxxootb0g,tts,1,1,0.99,Voice + Keystroke,Random Forest
+1769879150923-hkfhersf7f4,replay,1,1,1.0,Voice + Keystroke,Random Forest
+1769715316109-lepldmgac6,tts,1,1,1.0,Voice + Keystroke,Random Forest
+1770088231254-ksqawp9z6n,tts,1,1,0.98,Voice + Keystroke,Random Forest
+1769877786806-vedpgl0db5r,tts,1,1,1.0,Voice + Keystroke,Random Forest
+1769877447533-dk8kd071f4e,tts,1,1,1.0,Voice + Keystroke,Random Forest
+1769877776957-cfu3881h8h4,tts,1,1,1.0,Voice + Keystroke,Random Forest
+1769879312929-njjzxjw5exi,tts,1,1,1.0,Voice + Keystroke,Random Forest
+1769877746312-17s72lus0oz,tts,1,1,0.99,Voice + Keystroke,Random Forest
+1770446113415-851a51rt5u4,tts,1,1,1.0,Voice + Keystroke,Random Forest
+1769878532354-0sianq32je2,replay,1,1,1.0,Voice + Keystroke,Random Forest
+1769868225913-vpvxtwhl39,tts,1,1,0.9,Voice + Keystroke,Random Forest
+1769877813423-fzmq80fcxer,replay,1,1,1.0,Voice + Keystroke,Random Forest
+1769879032156-o2qh72vloxb,replay,1,0,0.32,Voice + Keystroke,Random Forest
+1769921310778-vis108tj3r,replay,1,1,0.98,Voice + Keystroke,Random Forest
+1769884026520-t9ty3jhfk,tts,1,1,1.0,Voice + Keystroke,Random Forest
+1770445671449-gz2dwbwj91j,tts,1,1,0.82,Voice + Keystroke,Random Forest
+1769877785185-0we92xpmfk1,tts,1,1,1.0,Voice + Keystroke,Random Forest
+1770445648100-ok0k52ovsd7,tts,1,1,1.0,Voice + Keystroke,Random Forest
+1769827464685-t4iir7dsiek,tts,1,1,1.0,Voice + Keystroke,Random Forest
+1769884198839-gbpaaesaa4,replay,1,1,1.0,Voice + Keystroke,Random Forest
+1770626604878-066mir6831a,tts,1,1,1.0,Voice + Keystroke,Random Forest
+1770087651128-1o6x4ah0kle,tts,1,1,0.86,Voice + Keystroke,Random Forest
+1769879335590-h4i23wgvh1,genuine,0,0,0.03,Voice + Keystroke,Random Forest
+1769877836738-ngh2n3zgsbb,genuine,0,0,0.0,Voice + Keystroke,Random Forest
+1770087965227-1baaery53s3i,genuine,0,1,1.0,Voice + Keystroke,Random Forest
+1770088530588-5efqabvflf3,genuine,0,0,0.04,Voice + Keystroke,Random Forest
+1769877783602-qg04uh9094,genuine,0,0,0.0,Voice + Keystroke,Random Forest
+1770583681000-kkbdy2g8w6,synthetic,1,1,1.0,Voice + Keystroke,Random Forest
+1771426980393-nzuzo8hi3mr,synthetic,1,1,0.98,Voice + Keystroke,Random Forest
+1770188000031-tgsearqo8in,synthetic,1,1,1.0,Voice + Keystroke,Random Forest
+1770445778272-8f5hwjpivtu,synthetic,1,1,1.0,Voice + Keystroke,Random Forest
+1770217531977-wk28pni9c7d,synthetic,1,1,0.76,Voice + Keystroke,Random Forest
+1770282071874-i2g3l36xe6i,synthetic,1,1,0.93,Voice + Keystroke,Random Forest
+1770364827761-mr9ug9dhlib,synthetic,1,1,1.0,Voice + Keystroke,Random Forest
+1770557958937-o7zm1xx7z5,synthetic,1,1,0.79,Voice + Keystroke,Random Forest
+1769877799465-s8yspj7o21s,synthetic,1,1,1.0,Voice + Keystroke,Random Forest
+1770477453315-sydj4jcvtoi,synthetic,1,1,1.0,Voice + Keystroke,Random Forest
+1770445820698-5jlwq1lbbr3,synthetic,1,1,1.0,Voice + Keystroke,Random Forest
+1770380045217-37yshqp9c7a,synthetic,1,1,1.0,Voice + Keystroke,Random Forest
+1770301371712-34a8ac6kmjn,synthetic,1,1,1.0,Voice + Keystroke,Random Forest
+1769877779645-a7eplt7s9je,synthetic,1,1,1.0,Voice + Keystroke,Random Forest
+1770646563111-v924d5zyos,genuine,0,0,0.0,Voice + Keystroke,Random Forest
+1769878778942-38puz883s92,genuine,0,0,0.13,Voice + Keystroke,Random Forest
+1769878005554-ul2tq32hw5g,genuine,0,0,0.03,Voice + Keystroke,Random Forest
+1770380281105-mdwuzashsa,genuine,0,0,0.04,Voice + Keystroke,Random Forest
+1770445678567-i71ayyh340i,genuine,0,0,0.0,Voice + Keystroke,Random Forest
+1770217090325-2egusipenph,genuine,0,0,0.2,Voice + Keystroke,Random Forest
+1770445750525-ngqmw95sj0f,genuine,0,0,0.0,Voice + Keystroke,Random Forest
+1770445434966-vjnehaefwq,genuine,0,0,0.09,Voice + Keystroke,Random Forest
+1770445718682-feaylk2v696,genuine,0,0,0.21,Voice + Keystroke,Random Forest
+1771183279674-6f82c2f9ntw,genuine,0,1,0.95,Voice + Keystroke,Random Forest
+1770445787080-lqw56ag66w,genuine,0,0,0.28,Voice + Keystroke,Random Forest
+1770480823736-i9brl5czgw,genuine,0,0,0.28,Voice + Keystroke,Random Forest
+1771401489025-xvnbmzb9e8a,logical,1,1,0.997053,Trimodal (F+V+K),Logistic Regression
+1770218434339-0208d18knkyy,logical,1,1,0.911031,Trimodal (F+V+K),Logistic Regression
+1770445663719-yykw6xau3x,logical,1,1,0.987097,Trimodal (F+V+K),Logistic Regression
+1770028923875-1hygdlyttxt,logical,1,1,0.975595,Trimodal (F+V+K),Logistic Regression
+1770206737552-7b84if03p6b,logical,1,1,0.905429,Trimodal (F+V+K),Logistic Regression
+1770445612934-h9m47dgoghs,logical,1,0,0.098571,Trimodal (F+V+K),Logistic Regression
+1769680362558-n9br5ma9t5p,logical,1,1,0.993988,Trimodal (F+V+K),Logistic Regression
+1770203841157-kds0yz9v9pc,logical,1,1,0.971951,Trimodal (F+V+K),Logistic Regression
+1770006660690-9qwgjvmdp8,logical,1,1,0.928055,Trimodal (F+V+K),Logistic Regression
+1769877768525-icimbs5yvns,replay,1,1,0.995176,Trimodal (F+V+K),Logistic Regression
+1769857860488-1kaf4vrf1bw,replay,1,1,0.995764,Trimodal (F+V+K),Logistic Regression
+1769877871713-4m4k67ocdf6,replay,1,1,0.971404,Trimodal (F+V+K),Logistic Regression
+1769879665020-z2hehrkreh,replay,1,1,0.994296,Trimodal (F+V+K),Logistic Regression
+1770016503680-7cdim9wd80u,logical,1,1,0.994355,Trimodal (F+V+K),Logistic Regression
+1770301049346-y55avo4p2vi,logical,1,0,0.250205,Trimodal (F+V+K),Logistic Regression
+1770445940637-wtibtljxuzm,logical,1,1,0.858099,Trimodal (F+V+K),Logistic Regression
+1769582224434-2n71gdsz237,replay,1,1,0.890995,Trimodal (F+V+K),Logistic Regression
+1769865631974-5vswlopqn38,replay,1,1,0.996626,Trimodal (F+V+K),Logistic Regression
+1770445711837-coy6l2idlit,logical,1,1,0.98639,Trimodal (F+V+K),Logistic Regression
+1770725471062-pvz0nwke0cp,logical,1,1,0.980866,Trimodal (F+V+K),Logistic Regression
+1769877835383-f8kvf7lral,replay,1,1,0.881993,Trimodal (F+V+K),Logistic Regression
+1770008423822-5ek366c1tyi,logical,1,1,0.641178,Trimodal (F+V+K),Logistic Regression
+1770190438442-qpuieazzqee,logical,1,1,0.936259,Trimodal (F+V+K),Logistic Regression
+1770445780786-y222a26roh,logical,1,1,0.997027,Trimodal (F+V+K),Logistic Regression
+1769656704608-ef07jxxzhzn,genuine,0,0,0.010247,Trimodal (F+V+K),Logistic Regression
+1769877877349-6ubslfaljz6,genuine,0,0,0.00778,Trimodal (F+V+K),Logistic Regression
+1769878323445-9htttm85m8a,genuine,0,0,0.026141,Trimodal (F+V+K),Logistic Regression
+1770003685383-va6cgq2e3pc,genuine,0,0,0.362469,Trimodal (F+V+K),Logistic Regression
+1769661288326-qjv26yfs9b,genuine,0,0,0.05995,Trimodal (F+V+K),Logistic Regression
+1769877763904-77llgv23pb,genuine,0,0,0.046332,Trimodal (F+V+K),Logistic Regression
+1769877865550-cngi8444j34,genuine,0,0,0.007964,Trimodal (F+V+K),Logistic Regression
+1769878150519-bs6gvzikgww,replay,1,1,0.986255,Trimodal (F+V+K),Logistic Regression
+1770259504525-yq212ny4ozl,tts,1,1,0.838414,Trimodal (F+V+K),Logistic Regression
+1770445658387-z0i6uvj0r2h,tts,1,1,0.99129,Trimodal (F+V+K),Logistic Regression
+1770091464869-c2tvb9pzrw,tts,1,1,0.99563,Trimodal (F+V+K),Logistic Regression
+1769879131222-u883itot1y,tts,1,1,0.99611,Trimodal (F+V+K),Logistic Regression
+1770445694876-9ahtrz67nb5,tts,1,1,0.994855,Trimodal (F+V+K),Logistic Regression
+1770007156022-abb32n6ywev,replay,1,1,0.915842,Trimodal (F+V+K),Logistic Regression
+1770090868504-sllnnomys4a,tts,1,1,0.961708,Trimodal (F+V+K),Logistic Regression
+1769877858353-02ci21rj98ul,tts,1,1,0.963961,Trimodal (F+V+K),Logistic Regression
+1770102907751-5ua5kyxye1,tts,1,1,0.950784,Trimodal (F+V+K),Logistic Regression
+1770445800354-dydxxootb0g,tts,1,1,0.88787,Trimodal (F+V+K),Logistic Regression
+1769879150923-hkfhersf7f4,replay,1,1,0.720952,Trimodal (F+V+K),Logistic Regression
+1769715316109-lepldmgac6,tts,1,1,0.979773,Trimodal (F+V+K),Logistic Regression
+1770088231254-ksqawp9z6n,tts,1,1,0.969789,Trimodal (F+V+K),Logistic Regression
+1769877786806-vedpgl0db5r,tts,1,1,0.987982,Trimodal (F+V+K),Logistic Regression
+1769877447533-dk8kd071f4e,tts,1,1,0.986982,Trimodal (F+V+K),Logistic Regression
+1769877776957-cfu3881h8h4,tts,1,1,0.927099,Trimodal (F+V+K),Logistic Regression
+1769879312929-njjzxjw5exi,tts,1,1,0.995839,Trimodal (F+V+K),Logistic Regression
+1769877746312-17s72lus0oz,tts,1,1,0.994436,Trimodal (F+V+K),Logistic Regression
+1770446113415-851a51rt5u4,tts,1,1,0.851777,Trimodal (F+V+K),Logistic Regression
+1769878532354-0sianq32je2,replay,1,1,0.996475,Trimodal (F+V+K),Logistic Regression
+1769868225913-vpvxtwhl39,tts,1,1,0.982133,Trimodal (F+V+K),Logistic Regression
+1769877813423-fzmq80fcxer,replay,1,1,0.993393,Trimodal (F+V+K),Logistic Regression
+1769879032156-o2qh72vloxb,replay,1,1,0.899775,Trimodal (F+V+K),Logistic Regression
+1769921310778-vis108tj3r,replay,1,1,0.992332,Trimodal (F+V+K),Logistic Regression
+1769884026520-t9ty3jhfk,tts,1,1,0.99626,Trimodal (F+V+K),Logistic Regression
+1770445671449-gz2dwbwj91j,tts,1,1,0.951929,Trimodal (F+V+K),Logistic Regression
+1769877785185-0we92xpmfk1,tts,1,1,0.989218,Trimodal (F+V+K),Logistic Regression
+1770445648100-ok0k52ovsd7,tts,1,1,0.978961,Trimodal (F+V+K),Logistic Regression
+1769827464685-t4iir7dsiek,tts,1,1,0.994237,Trimodal (F+V+K),Logistic Regression
+1769884198839-gbpaaesaa4,replay,1,1,0.997881,Trimodal (F+V+K),Logistic Regression
+1770626604878-066mir6831a,tts,1,1,0.975901,Trimodal (F+V+K),Logistic Regression
+1770087651128-1o6x4ah0kle,tts,1,1,0.906021,Trimodal (F+V+K),Logistic Regression
+1769879335590-h4i23wgvh1,genuine,0,0,0.00387,Trimodal (F+V+K),Logistic Regression
+1769877836738-ngh2n3zgsbb,genuine,0,0,0.047949,Trimodal (F+V+K),Logistic Regression
+1770087965227-1baaery53s3i,genuine,0,1,0.706228,Trimodal (F+V+K),Logistic Regression
+1770088530588-5efqabvflf3,genuine,0,0,0.008011,Trimodal (F+V+K),Logistic Regression
+1769877783602-qg04uh9094,genuine,0,0,0.007675,Trimodal (F+V+K),Logistic Regression
+1770583681000-kkbdy2g8w6,synthetic,1,1,0.994223,Trimodal (F+V+K),Logistic Regression
+1771426980393-nzuzo8hi3mr,synthetic,1,1,0.790537,Trimodal (F+V+K),Logistic Regression
+1770188000031-tgsearqo8in,synthetic,1,1,0.99106,Trimodal (F+V+K),Logistic Regression
+1770445778272-8f5hwjpivtu,synthetic,1,1,0.996779,Trimodal (F+V+K),Logistic Regression
+1770217531977-wk28pni9c7d,synthetic,1,1,0.764572,Trimodal (F+V+K),Logistic Regression
+1770282071874-i2g3l36xe6i,synthetic,1,1,0.99278,Trimodal (F+V+K),Logistic Regression
+1770364827761-mr9ug9dhlib,synthetic,1,1,0.989267,Trimodal (F+V+K),Logistic Regression
+1770557958937-o7zm1xx7z5,synthetic,1,1,0.748328,Trimodal (F+V+K),Logistic Regression
+1769877799465-s8yspj7o21s,synthetic,1,1,0.986776,Trimodal (F+V+K),Logistic Regression
+1770477453315-sydj4jcvtoi,synthetic,1,1,0.996595,Trimodal (F+V+K),Logistic Regression
+1770445820698-5jlwq1lbbr3,synthetic,1,1,0.932762,Trimodal (F+V+K),Logistic Regression
+1770380045217-37yshqp9c7a,synthetic,1,1,0.995113,Trimodal (F+V+K),Logistic Regression
+1770301371712-34a8ac6kmjn,synthetic,1,1,0.982706,Trimodal (F+V+K),Logistic Regression
+1769877779645-a7eplt7s9je,synthetic,1,1,0.995869,Trimodal (F+V+K),Logistic Regression
+1770646563111-v924d5zyos,genuine,0,0,0.004676,Trimodal (F+V+K),Logistic Regression
+1769878778942-38puz883s92,genuine,0,0,0.016607,Trimodal (F+V+K),Logistic Regression
+1769878005554-ul2tq32hw5g,genuine,0,0,0.00815,Trimodal (F+V+K),Logistic Regression
+1770380281105-mdwuzashsa,genuine,0,0,0.008635,Trimodal (F+V+K),Logistic Regression
+1770445678567-i71ayyh340i,genuine,0,0,0.008479,Trimodal (F+V+K),Logistic Regression
+1770217090325-2egusipenph,genuine,0,0,0.006502,Trimodal (F+V+K),Logistic Regression
+1770445750525-ngqmw95sj0f,genuine,0,0,0.036489,Trimodal (F+V+K),Logistic Regression
+1770445434966-vjnehaefwq,genuine,0,0,0.022388,Trimodal (F+V+K),Logistic Regression
+1770445718682-feaylk2v696,genuine,0,0,0.283379,Trimodal (F+V+K),Logistic Regression
+1771183279674-6f82c2f9ntw,genuine,0,0,0.143473,Trimodal (F+V+K),Logistic Regression
+1770445787080-lqw56ag66w,genuine,0,0,0.111635,Trimodal (F+V+K),Logistic Regression
+1770480823736-i9brl5czgw,genuine,0,0,0.065879,Trimodal (F+V+K),Logistic Regression

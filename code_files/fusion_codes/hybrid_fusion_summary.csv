@@ -1,0 +1,17 @@
+Level,Fusion Combo,Stage,Accuracy (%),Precision (%),Recall (%),F1-Score (%),AUC-ROC,FAR (%),FRR (%),TP,TN,FP,FN
+Bimodal,Face + Keystroke,Stage 1 – LR  (Face + Keystroke),94.74,98.53,94.37,96.4,0.9906,4.17,5.63,67,23,1,4
+Bimodal,Face + Keystroke,Stage 1 – RF  (Face + Keystroke),97.89,97.26,100.0,98.61,0.9971,8.33,0.0,71,22,2,0
+Bimodal,Face + Keystroke,Stage 2 – Score (Face + Keystroke),96.84,97.22,98.59,97.9,0.9935,8.33,1.41,70,22,2,1
+Bimodal,Face + Keystroke,Stage 3 – Final (Face + Keystroke),96.84,97.22,98.59,97.9,0.9935,8.33,1.41,70,22,2,1
+Bimodal,Face + Voice,Stage 1 – LR  (Face + Voice),92.63,97.06,92.96,94.96,0.9812,8.33,7.04,66,22,2,5
+Bimodal,Face + Voice,Stage 1 – RF  (Face + Voice),94.74,95.83,97.18,96.5,0.9844,12.5,2.82,69,21,3,2
+Bimodal,Face + Voice,Stage 2 – Score (Face + Voice),95.79,97.18,97.18,97.18,0.9853,8.33,2.82,69,22,2,2
+Bimodal,Face + Voice,Stage 3 – Final (Face + Voice),95.79,97.18,97.18,97.18,0.9853,8.33,2.82,69,22,2,2
+Bimodal,Voice + Keystroke,Stage 1 – LR  (Voice + Keystroke),91.58,95.65,92.96,94.29,0.9701,12.5,7.04,66,21,3,5
+Bimodal,Voice + Keystroke,Stage 1 – RF  (Voice + Keystroke),93.68,94.52,97.18,95.83,0.9487,16.67,2.82,69,20,4,2
+Bimodal,Voice + Keystroke,Stage 2 – Score (Voice + Keystroke),93.68,95.77,95.77,95.77,0.9683,12.5,4.23,68,21,3,3
+Bimodal,Voice + Keystroke,Stage 3 – Final (Voice + Keystroke),93.68,95.77,95.77,95.77,0.9683,12.5,4.23,68,21,3,3
+Trimodal,Trimodal (F+V+K),Stage 1 – LR  (Trimodal (F+V+K)),96.84,98.57,97.18,97.87,0.9947,4.17,2.82,69,23,1,2
+Trimodal,Trimodal (F+V+K),Stage 1 – RF  (Trimodal (F+V+K)),96.84,95.95,100.0,97.93,0.9965,12.5,0.0,71,21,3,0
+Trimodal,Trimodal (F+V+K),Stage 2 – Score (Trimodal (F+V+K)),95.79,97.18,97.18,97.18,0.9971,8.33,2.82,69,22,2,2
+Trimodal,Trimodal (F+V+K),Stage 3 – Final (Trimodal (F+V+K)),96.84,98.57,97.18,97.87,0.9971,4.17,2.82,69,23,1,2
