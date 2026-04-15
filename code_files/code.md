@@ -1,1 +1,1 @@
-Source Code License v2.0
+Source Code License v2.1. This project serves the thesis with technical information
